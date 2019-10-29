@@ -1,0 +1,9 @@
+{
+  "presets": [
+    "razzle/babel"
+  ],
+  "plugins": [
+    "effector/babel-plugin",
+    "effector/babel-plugin-react"
+  ]
+}
